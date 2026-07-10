@@ -1,8 +1,7 @@
 <div align="center">
-  <h5>Information Systems Student | Decision Support System & MCDM Enthusiast</h5>
+  <h2>Information Systems Student | Decision Support System & MCDM Enthusiast</h2>
+  <p><i>Empowering organizations to make optimal choices by bridging operational data with strategic management.</i></p>
 </div>
-
-<p><i>Empowering organizations to make optimal choices by bridging operational data with strategic management.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -12,7 +11,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-</div>
+</div align="center">
 
 ---
 
